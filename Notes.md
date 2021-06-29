@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Mergaite</title>
+    <style>
+        body{
+            background-color: #f8f8f8;
+
+        }
+        header
+    </style>
+</head>
+<body>
+  <header> logo ir
+      <img src="#"; alt="logo">
+</header>  
+
+<!--
+<nav>
+<a href="#">Home</a>
+<a href="#">Community</a>
+<a href="#">#</a>
+<a href="#">#</a>
+<a href="#"></a>
+</nav>
+  <main><div>404</div></main>
+</body>
+</html>
+-->
+
